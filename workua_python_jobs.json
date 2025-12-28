@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Data Analyst (SQL, Python)",
+    "price": "25000–35000грн",
+    "company": "Є гроші, фінансова компанія, ТОВ",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/7188010/"
+  },
+  {
+    "name": "Backend Developer, військовослужбовець (Python/Odoo, центр логістичних рішень)",
+    "price": "25000–75000грн",
+    "company": "Хартія, 13-та БрОП НГУ",
+    "city": "Вся Україна",
+    "link": "https://www.work.ua/jobs/7250722/"
+  },
+  {
+    "name": "Middle FullStack, Python Developer",
+    "price": null,
+    "company": "Nix",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/6502018/"
+  },
+  {
+    "name": "Python Developer",
+    "price": null,
+    "company": "Digital Hiring",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/7509928/"
+  },
+  {
+    "name": "Викладач курсу \"Програмування на Python для Big Data\"",
+    "price": "3000–9000грн",
+    "company": "НаУКМА",
+    "city": "Київ",
+    "link": "https://www.work.ua/jobs/7508047/"
+  },
+  {
+    "name": "Middle Data Engineer (Python)",
+    "price": null,
+    "company": "Nix",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/7051894/"
+  },
+  {
+    "name": "Python Developer (Intern)",
+    "price": null,
+    "company": "HYS Enterprise",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/6033030/"
+  },
+  {
+    "name": "Програміст С, С++, Python",
+    "price": "50000грн",
+    "company": "6 центр рекрутингу Сил Безпілотних Систем (СБС)",
+    "city": "Вся Україна",
+    "link": "https://www.work.ua/jobs/7315354/"
+  },
+  {
+    "name": "Спеціаліст з автоматизації процесів (Python)",
+    "price": null,
+    "company": "AMZ, Recruiting Agency",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/5663279/"
+  },
+  {
+    "name": "Python Developer (Odoo)",
+    "price": null,
+    "company": "Товариство Червоного Хреста України",
+    "city": "Київ",
+    "link": "https://www.work.ua/jobs/7374145/"
+  },
+  {
+    "name": "Python developer (FastAPI)",
+    "price": null,
+    "company": "Halo Lab",
+    "city": "Дистанційно",
+    "link": "https://www.work.ua/jobs/7295602/"
+  },
+  {
+    "name": "Middle Python-розробник на проєкт АСУТП",
+    "price": null,
+    "company": "Гуд Енерджи, ТОВ",
+    "city": "Київ",
+    "link": "https://www.work.ua/jobs/7284352/"
+  },
+  {
+    "name": "Python Developer",
+    "price": null,
+    "company": "PNN Soft",
+    "city": "Київ",
+    "link": "https://www.work.ua/jobs/5536195/"
+  },
+  {
+    "name": "Python Backend Developer (Django, правий берег)",
+    "price": null,
+    "company": "MilTech Recruitment",
+    "city": "Київ",
+    "link": "https://www.work.ua/jobs/7496446/"
+  }
+]
